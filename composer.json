@@ -1,0 +1,7 @@
+{
+    "name": "mtrojan-ub/swordappv2-php-library",
+    "description": "SWORD v2 PHP API library ",
+    "require": {
+        "php": ">=5.0"
+    }
+}
